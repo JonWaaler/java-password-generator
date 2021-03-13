@@ -10,6 +10,9 @@ Then load the password into the webpage.
 
 ## Resources
 
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
+- [W3 Schools](https://www.w3schools.com/)
+
 ## Built With
 
 - HTML
@@ -18,7 +21,11 @@ Then load the password into the webpage.
 
 ## Website
 
+https://jonwaaler.github.io/java-password-generator/
+
 ## Screenshot
+
+![Alt text](https://github.com/JonWaaler/java-password-generator/blob/main/website-photo.PNG)
 
 ## Contribution
 
